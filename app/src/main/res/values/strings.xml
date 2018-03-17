@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" >
+
+    <string name="app_name">Order Coffee</string>
+    <string name="quantity">quantity</string>
+    <string name="price">price</string>
+    <string name="topping">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="addwhip">Add Whipped Cream?</string>
+    <string name="addChoc">Add Chocolate?</string>
+    <string name="chololate">Chocolate</string>
+    <string name="order">Order</string>
+    <string name="nme">Name</string>
+    <string name="total">Total</string>
+    <string name="thank">Thank You!!</string>
+</resources>
